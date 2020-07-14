@@ -1,0 +1,31 @@
+body {background-color:#eee;margin:25px;font-family: Arial,Helvetica,sans-serif; }
+body,p {font-size: 1rem;font-weight: 400}
+h1 {font-size: 2rem }
+h2 {font-size: 1.5rem }
+h3 {font-size: 1.2rem }
+h1,h2,h3 {font-weight: bold}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+th, td {
+	border: 1px solid black;
+	text-align: left;
+	padding: .5rem;
+	width: max-content;
+	min-width: 5rem;
+}
+th {color: #fff; background-color: #888}
+.Rarrow {
+  border-top: 10px solid white;
+  border-bottom: 10px solid white;
+  border-left: 20px solid black;
+  height: 0px;
+}
+.resColor {background-color:#fff}
+.green {color:#0a0}
+.red {color:#a00}
+.blue {color:#00a}
