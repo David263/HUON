@@ -14,8 +14,8 @@ Both rest-of-line comments (//) and character-oriented comments (/*\*/) are supp
 HUON strings can be any of the following scalar values:
 
 - Character strings of any length
-- integers (numbers) of 1-8 characters in length
-- the literals true, t, false, t, and null.
+- integers (numbers) of 1-8 characters in length (larger or negative numbers can be represented by quoted strings)
+- the literals true, t, false, f, and null.
 
 They can also be the following vector (structured) values:
 
