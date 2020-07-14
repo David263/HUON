@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+		HUON
+		A HUman Object string Notation, representing structured values as
+		easy-to-write strings as input for computer programs
+		Copyright © 2020 Springtime Software
+		History of major and minor changes.
+------------------------------------------------------------------------
+
+1.005 7/6/20	Added trailing comma option for arrays and objects,
+					restricted numbers to integers under 8 chars
+1.004 6/25/20  First PHP internal release: all tests pass
+1.002 6/22/20  Added HTML safety for the display of test strings,
+					fixed bugs in tests
+1.001 6/22/20  First internal release
