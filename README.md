@@ -1,8 +1,8 @@
 ## JSON variant HUON (HUman Object Notation)
 
-This repository contains PHP and JavaScript implementations of HUON, a human-readable yet efficient structured data language. Also contained are PHP and JavaScript testing programs, with about 100 identical tests.
+This repository contains PHP and JavaScript implementations of HUON, a human-readable yet efficient structured data language. Also contained are PHP and JavaScript testing programs, with about 100 tests. Currently, only conversion from a HUON string to a returned program value is supported. This is sufficient for using HUON to specify human-written program and other configuration parameters, but not for data serialization for storage or transmission. Converting a value to a HUON string will be written if/when HUON catches on and the need is there.
 
-Bug reports are requested, using the Issues feature. Requests and suggestions will be noted, but may not be adopted in order to keep this data language and tools simple. Primary development and bug fixes are done outside of GitHub by the developer.
+Bug reports are requested, using the Issues feature. Requests and suggestions submitted via Issues will be noted, but may not be adopted in order to keep this data language and its tools simple. Primary development and bug fixes are done outside of GitHub by the developer, and volunteers are not yet needed.
 
 ## Overview
 ```
