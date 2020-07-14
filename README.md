@@ -1,5 +1,5 @@
 # HUON
-JSON variant (HUman Object Notation)
+## JSON variant (HUman Object Notation)
 
 This repository contains PHP and JavaScript implementations of HUON, a human-readable yet efficient structured data language. Also contained are PHP and JavaScript testing programs, with about 100 identical tests.
 
