@@ -25,3 +25,4 @@ They can also be the following vector (structured) values:
 ## Notes
 
 - Arrays and objects may contain a trailing comma (unless an option is set), for ease of editing: [3,4,5,]
+- In PHP, objects are represented by class objects, so gettype() returns "object" instead of "array": `$object=(object)['a'=>'b'];`
