@@ -4,7 +4,7 @@ This repository contains PHP and JavaScript implementations of HUON, a human-rea
 
 Bug reports are requested, using the Issues feature. Requests and suggestions will be noted, but may not be adopted in order to keep this data language and tools simple. Primary development and bug fixes are done outside of GitHub by the developer.
 
-## Overview:
+## Overview
 ```
 // Example of HUON string input
 {name: string, "with space":"with space"}
