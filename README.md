@@ -28,4 +28,4 @@ They can also be the following vector (structured) values:
 - Arrays and objects may contain a trailing comma (unless an option is set), for ease of editing: [3,4,5,].
 - In PHP, objects are represented by class objects, so gettype() returns "object" instead of "array": `$object=(object)['a'=>'b'];`.
 - Feel free to download the zip file (Code > Code > Download ZIP), put the files where you wish, and run the test programs (HUON-test-js.html or HUON-test.php) in a browser; for PHP, you must run using a local or remote webserver as usual.
-
+- Find a bug? Please report it using the Issues feature above.
